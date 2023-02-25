@@ -11,12 +11,12 @@
   },
   "repository": {
            "type": "git",
-           "url": "git+https://github.com/curriculumTractor/FSD_MERN.git"
+           "url": "git+https://github.com/NEETHUSARATH/FSDFINAL.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-         "url": "https://github.com/curriculumTractor/FSD_MERN/issues"
+         "url": "https://github.com/NEETHUSARATH/FSDFINAL.git/issues"
       },
   "dependencies": {
     "bcrypt": "^5.1.0",
